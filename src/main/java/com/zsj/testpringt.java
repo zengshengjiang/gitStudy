@@ -6,6 +6,5 @@ public class testpringt {
         System.out.println("aaa");
         System.out.println("master");
         System.out.println("aaaaaaaa");
-        System.out.println("master");
     }
 }
